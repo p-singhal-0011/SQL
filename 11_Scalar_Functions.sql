@@ -1,0 +1,9 @@
+-- Scalar functions: 
+-- These functions are based on user input, these too returns single value. 
+-- UCASE()
+-- LCASE()
+-- MID()
+-- LEN()
+-- ROUND()
+-- NOW()
+-- FORMAT()
